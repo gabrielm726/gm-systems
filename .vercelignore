@@ -1,0 +1,15 @@
+# Vercel Ignore File
+node_modules
+release
+dist
+tools
+android
+desktop
+.git
+.vscode
+*.log
+*.zip
+*.7z
+*.exe
+*.apk
+venv

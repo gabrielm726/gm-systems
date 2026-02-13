@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GM Systems e Gestão Patrimonial</string>
+    <string name="title_activity_main">GM Systems e Gestão Patrimonial</string>
+    <string name="package_name">com.gt.gestaopatrimonial</string>
+    <string name="custom_url_scheme">com.gt.gestaopatrimonial</string>
+</resources>

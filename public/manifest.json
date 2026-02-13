@@ -1,0 +1,21 @@
+{
+    "name": "GM Systems e Gestão Patrimonial",
+    "short_name": "GM Systems",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#0f172a",
+    "description": "Sistema de Gestão Patrimonial e Soberania de Dados",
+    "icons": [
+        {
+            "src": "/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}

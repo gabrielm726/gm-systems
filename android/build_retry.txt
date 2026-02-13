@@ -1,0 +1,18 @@
+Starting a Gradle Daemon, 1 stopped Daemon could not be reused, use --status for details
+
+> Configure project :app
+WARNING: The option setting 'android.overridePathCheck=true' is experimental.
+The current default is 'false'.
+WARNING: Using flatDir should be avoided because it doesn't support any meta-data formats.
+
+> Configure project :capacitor-cordova-android-plugins
+WARNING: Using flatDir should be avoided because it doesn't support any meta-data formats.
+
+> Task :clean UP-TO-DATE
+> Task :app:clean UP-TO-DATE
+> Task :capacitor-android:clean UP-TO-DATE
+> Task :capacitor-community-sqlite:clean UP-TO-DATE
+> Task :capacitor-cordova-android-plugins:clean UP-TO-DATE
+
+BUILD SUCCESSFUL in 17s
+5 actionable tasks: 5 up-to-date

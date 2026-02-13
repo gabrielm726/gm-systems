@@ -1,0 +1,18 @@
+PASSO A PASSO PARA APRESENTAÇÃO (EMERGÊNCIA)
+
+1. MODO NUVEM (CORRIGIR ERRO 401)
+   -> Execute o arquivo: DEPLOY_AGORA.bat
+   (Isso envia a correção de segurança para a Vercel. Espere aparecer "SUCESSO").
+
+2. MODO DESKTOP (PARA APRESENTAR LOCALMENTE)
+   -> Execute o arquivo: AMBIENTE_COMPLETO.bat
+   (Isso abre o sistema E o motor local ao mesmo tempo. É a forma mais segura de apresentar agora).
+
+3. GERAR O APLICATIVO FINAL (CORRIGIDO)
+   -> Se der tempo, execute: GERAR_INSTALADOR_FINAL.bat
+   (Isso cria o .exe novo com o motor embutido corrigido).
+
+DICA DE OURO: USE O "AMBIENTE_COMPLETO.bat" PARA A REUNIÃO. 
+Ele garante que se a nuvem falhar, o local assume.
+
+Boa sorte! Está tudo configurado.

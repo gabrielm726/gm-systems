@@ -1,0 +1,8 @@
+{
+  "name": "G.T Gestão Patrimonial",
+  "description": "Sistema de gestão patrimonial governamental com controle de frota, mapas e relatórios.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

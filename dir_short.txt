@@ -1,0 +1,12 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç C8AD-F979
+
+ Pasta de C:\Users\user\Desktop
+
+02/02/2026  13:16    <DIR>          SISTEM~2     Sistema DS Detetizaá∆o
+05/01/2026  13:53    <DIR>          SISTEM~1.TGE Sistema G.T Gest∆o
+30/12/2025  20:16                52 SISTEM~1.COD Sistema G.T.code-workspace
+09/02/2026  13:55    <DIR>          SISTEM~1     Sistema GM Systems e Gest∆o Patrimonial
+18/12/2025  11:18                 0              sistema.txt
+               2 arquivo(s)             52 bytes
+               3 pasta(s)   20.813.488.128 bytes dispon°veis

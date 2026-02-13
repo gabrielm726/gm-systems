@@ -1,0 +1,25 @@
+
+> Configure project :app
+WARNING: The option setting 'android.overridePathCheck=true' is experimental.
+The current default is 'false'.
+WARNING: Using flatDir should be avoided because it doesn't support any meta-data formats.
+
+> Configure project :capacitor-cordova-android-plugins
+WARNING: Using flatDir should be avoided because it doesn't support any meta-data formats.
+Build-tool 34.0.0 is missing AAPT at C:\Users\user\Desktop\Sistema GM Systems e Gestão Patrimonial\tools\android-sdk\build-tools\34.0.0\aapt.exe
+Build-tool 34.0.0 is missing AAPT at C:\Users\user\Desktop\Sistema GM Systems e Gestão Patrimonial\tools\android-sdk\build-tools\34.0.0\aapt.exe
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'.
+> Could not determine the dependencies of null.
+   > Installed Build Tools revision 34.0.0 is corrupted. Remove and install again using the SDK Manager.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 3s
